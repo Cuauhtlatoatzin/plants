@@ -2,7 +2,7 @@
 
 ## North American
 
-* [Bearberry}(https://en.wikipedia.org/wiki/Bearberry)
+* [Bearberry](https://en.wikipedia.org/wiki/Bearberry)
 
 ### Alder
 
