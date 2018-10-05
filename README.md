@@ -114,3 +114,9 @@ These are very hard woods.
 * [Ostrya chisosensis](https://en.wikipedia.org/wiki/Ostrya_chisosensis)
 * [Ostrya knowltonii](https://www.fs.fed.us/database/feis/plants/tree/ostkno/all.html)
 * [Ostrya virginiana](https://en.wikipedia.org/wiki/Ostrya_virginiana)
+
+
+## Prunus
+
+* [Prunus serotina](https://en.wikipedia.org/wiki/Prunus_serotina) - Black Cherry, capolcuahuitl(Nahuatl).
+* [Prunus virginiana](https://en.wikipedia.org/wiki/Prunus_virginiana) - Chokecherry, Buffalo Berries, do'icabui(N. Paiute), toshəbui(N. Paiute), cuiwap(Pit River), dewich'käsh(Klamath), dsamchit(Washoe), canpasapa(Lakota), nopa-zhinga(Ponca & Omaha), nahaapi nakaaruts(Pawnee), puckkeep(Blackfoot), monotse(Cheyenne), malupwa(Crow), schlascha(Flathead), ohpanaigaw(Kiowa), champa(Assiniboin), goonpa(Osage) (see: [The Chokecherry](https://sites.google.com/a/macalester.edu/ordwipedia/traditional-ecological-knowledge-tek-from-ling-225/the-chokecherry))
