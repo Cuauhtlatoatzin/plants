@@ -10,8 +10,6 @@
 
 ## [Willow](https://en.wikipedia.org/wiki/Willow)
 
-* [Willow Water](https://en.wikipedia.org/wiki/Willow_water) - Contains rooting hormones: indolebutyric acid and salicylic acid.
-
 * [Salix alaxensis](https://en.wikipedia.org/wiki/Salix_alaxensis) - Alaska Willow. Feltleaf Willow. Northern Canada and Alaska. Food for animals. Many Uses.
 * [Salix amygdaloides](https://en.wikipedia.org/wiki/Salix_amygdaloides) - Peachleaf Willow. Same range as the Bison as of 1830.
 * [Salix arbusculoides](https://en.wikipedia.org/wiki/Salix_arbusculoides) - Littletree Willow. Alaska through central Canada. Important food for animals. Many uses.
@@ -70,6 +68,10 @@
 * [Salix babylonica](https://en.wikipedia.org/wiki/Salix_babylonica)
 * [Salix fragilis](https://en.wikipedia.org/wiki/Salix_fragilis)
 * [Salix sepulcralis group](https://en.wikipedia.org/wiki/Salix_sepulcralis_group)
+
+### Other uses
+
+* [Willow Water](https://en.wikipedia.org/wiki/Willow_water) - Contains rooting hormones: indolebutyric acid and salicylic acid.
 
 
 ## Alder
