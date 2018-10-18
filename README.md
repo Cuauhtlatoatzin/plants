@@ -139,6 +139,18 @@ Not known to be used for human consumption:
 
 * [Theobroma cacao](https://en.wikipedia.org/wiki/Theobroma_cacao) - Chocolate!
 
+## [Cucurbita](https://en.wikipedia.org/wiki/Cucurbita)
+
+* [Cucurbita okeechobeensis](https://en.wikipedia.org/wiki/Cucurbita_okeechobeensis) - Gourd native to both Florida, USA and Veracruz, MX. It is an endangered species and needs to be saved. It should be cultivated and used for shot glasses the whole world over. ;-) Also see [Taxonomic Rank and Rarity of Cucurbita okeechobeensis](http://cuke.hort.ncsu.edu/cgc/cgc11/cgc11-35.html)
+* [Cucurbita maxima](https://en.wikipedia.org/wiki/Cucurbita_maxima) - Originated from South America and wandered its way to North America some 4000 years ago. Has many varieties:
+  * Arikara squash - Heirloom, grows from 4 to 11 pounds. Cultivated by the Arikira. Predates European settlement.
+  * Candy Roaster squash - Landrace, developed by the Tsalagi (Cherokee). Grows from 10 to 250+ lbs
+  * Lakota squash - Grown by the Lakota.
+  * Nanticoke squash - Heirloom. Grown by the [Nanticoke people](https://en.wikipedia.org/wiki/Nanticoke_people).
+* [Cucurbita pepo](https://en.wikipedia.org/wiki/Cucurbita_pepo) - Most of the squash you know about, including pumpkins, comes from this species.
+* A good resource on gourds is the Spanish Wikipedia page [Calabaza](https://es.wikipedia.org/wiki/Calabaza).
+
+
 # Resources
 
 * [Native American Ethnobotany - A Database of Foods, Drugs, Dyes and Fibers of Native American Peoples, Derived from Plants.](http://naeb.brit.org/)
