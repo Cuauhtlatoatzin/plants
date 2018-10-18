@@ -120,3 +120,19 @@ These are very hard woods.
 
 * [Prunus serotina](https://en.wikipedia.org/wiki/Prunus_serotina) - Black Cherry, capolcuahuitl(Nahuatl).
 * [Prunus virginiana](https://en.wikipedia.org/wiki/Prunus_virginiana) - Chokecherry, Buffalo Berries, do'icabui(N. Paiute), toshəbui(N. Paiute), cuiwap(Pit River), dewich'käsh(Klamath), dsamchit(Washoe), canpasapa(Lakota), nopa-zhinga(Ponca & Omaha), nahaapi nakaaruts(Pawnee), puckkeep(Blackfoot), monotse(Cheyenne), malupwa(Crow), schlascha(Flathead), ohpanaigaw(Kiowa), champa(Assiniboin), goonpa(Osage) (see: [The Chokecherry](https://sites.google.com/a/macalester.edu/ordwipedia/traditional-ecological-knowledge-tek-from-ling-225/the-chokecherry))
+
+
+## [Ilex](https://en.wikipedia.org/wiki/Holly)
+
+* [Ilex paraguariensis (Yerba Mate)](https://en.wikipedia.org/wiki/Yerba_mate) - Traditionally prepared as a tea throughout Central and South America. Has many potential health benefits.
+* [Ilex vomitoria (Yopún [Catawban], Cassina [Timucua])](https://en.wikipedia.org/wiki/Ilex_vomitoria) - The Latin name is a misnomer from Europeans who thought it caused vomitting during ceremonies. Simlar to Yerba Mate. Used by some tribes for male only purification rituals. Also see [Black drink](https://en.wikipedia.org/wiki/Black_drink)
+* [Ilex guayusa](https://en.wikipedia.org/wiki/Ilex_guayusa)
+* [Ilex amelanchier](https://en.wikipedia.org/wiki/Ilex_amelanchier)
+* [Ilex mucronata](https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=429925) Also see [Nemopanthus mucronatus - (L.)Trel.](https://pfaf.org/user/Plant.aspx?LatinName=Nemopanthus+mucronatus) and [Bog Plants: Mountain Holly](https://joshfecteau.com/bog-plants-mountain-holly/)
+* [Ilex verticillata](https://novascotia.ca/museum/poison/?section=species&id=95)
+
+
+# Resources
+
+* [Landscape Plants](https://landscapeplants.oregonstate.edu/)
+* [Woody Plant Identification System](https://oregonstate.edu/dept/ldplants/plant_ident/plant/search/type/1)
