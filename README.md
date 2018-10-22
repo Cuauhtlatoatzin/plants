@@ -150,6 +150,15 @@ Not known to be used for human consumption:
 * [Cucurbita pepo](https://en.wikipedia.org/wiki/Cucurbita_pepo) - Most of the squash you know about, including pumpkins, comes from this species.
 * A good resource on gourds is the Spanish Wikipedia page [Calabaza](https://es.wikipedia.org/wiki/Calabaza).
 
+# [Psoralea](https://en.wikipedia.org/wiki/Psoralea)
+
+* [Psoralea esculenta](https://en.wikipedia.org/wiki/Psoralea_esculenta) - Timpsula, prarie turnip. One of two edible Psoralea species. [Throughout the Midwest of Canada and USA](https://plants.usda.gov/core/profile?symbol=PEES).
+* [Pediomelum hypogaeum](https://en.wikipedia.org/wiki/Pediomelum_hypogaeum) - Little Indian breadroot, subterranean Indian breadroot. One of two edible Psoralea species. USA: Montana, Wyoming, Colorado, Nebraska, Kansas, New Mexico, Oklahoma, Arkansas, Texas, Louisiana.
+
+# [Solanum]()
+* [Solanum jamesii](https://www.cultivariable.com/instructions/potatoes/how-to-grow-wild-potatoes/solanum-jamesii/) - Edible variety of potato, should be eaten with clay gravy. Four corners area of USA: Utah, Colorado, Arizon, New Mexico. USA: Texas, Iowa. Central Mexico.
+* [Solanum stoloniferum](https://www.cultivariable.com/instructions/potatoes/how-to-grow-wild-potatoes/solanum-stoloniferum/) - Edible variety of potato, should be eaten with clay gravy. Less frost tollerant. USA: Arzona, New Mexica, Texas. Mexico: Baja California, Central states through Oaxaca. [Identifying photos](http://southwestdesertflora.com/WebsiteFolders/All_Species/Solanaceae/Solanum%20fendleri,%20Fendler%27s%20Horsenettle.html).
+
 
 # Resources
 
