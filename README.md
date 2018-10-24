@@ -159,6 +159,14 @@ Not known to be used for human consumption:
 * [Solanum jamesii](https://www.cultivariable.com/instructions/potatoes/how-to-grow-wild-potatoes/solanum-jamesii/) - Edible variety of potato, should be eaten with clay gravy. Four corners area of USA: Utah, Colorado, Arizon, New Mexico. USA: Texas, Iowa. Central Mexico.
 * [Solanum stoloniferum](https://www.cultivariable.com/instructions/potatoes/how-to-grow-wild-potatoes/solanum-stoloniferum/) - Edible variety of potato, should be eaten with clay gravy. Less frost tollerant. USA: Arzona, New Mexica, Texas. Mexico: Baja California, Central states through Oaxaca. [Identifying photos](http://southwestdesertflora.com/WebsiteFolders/All_Species/Solanaceae/Solanum%20fendleri,%20Fendler%27s%20Horsenettle.html).
 
+# [Annonaceae](https://en.wikipedia.org/wiki/Annonaceae) - Family
+
+* [Asimina triloba](https://en.wikipedia.org/wiki/Asimina_triloba) - Pawpaw, assimin/rassimin (Miami-Illinois language), Appalachian banana, chirimoyo de la Florida, banano de montaña. Found in eastern Canada and USA with a concetration in central eastern states of the USA. Relies on native polinators attracted to its flowers' rotting meat like scent. Largest native fruit in north america. Alsos read: [The Pawpaw, or the Appalachian Banana, is the Lifeblood Fruit of Ancestors Past](https://www.wideopeneats.com/appalachian-banana-pawpaw/)
+* [Annona squamosa](https://en.wikipedia.org/wiki/Annona_squamosa) - [sugar-apple, sweetsop, custard apple, ate (name from Mexico)](https://en.wikipedia.org/wiki/Sugar-apple), [anón, ates, riñón, anona, saramuyo](https://es.wikipedia.org/wiki/Annona_squamosa) - Native to the tropics and carribean.
+* [Annona muricata](https://en.wikipedia.org/wiki/Sugar-apple) - Guanábana, Soursop. Native to tropical regions. Many Asian resturants will serve a green candy with this flavor.
+* [Annona cherimola](https://en.wikipedia.org/wiki/Cherimoya) - Chirimuya (Quechua), Cherimoya, Custard apple. Found from the southern tip of America all the way up through Mexico and even in Florida, USA.
+* [Annona reticulata](https://en.wikipedia.org/wiki/Annona_reticulata) - Annon (Taino), nona roja, anona corazón, corazón de buey, mamán, cachimán, candón, mamón, anona de Cuba, quauhtzapotl de México, chirimoyo de Cuba, anona lisa de la Guayana, matzapotl de México, wild-sweetsop, bull's heart, bullock's-heart, or ox-heart. Found from Brazil through Veracruz, MX.
+* [Rollinia deliciosa](https://en.wikipedia.org/wiki/Rollinia_deliciosa) - biribá, wild sugar-apple, aratiku. Tastes like lemon meringue.
 
 # Resources
 
