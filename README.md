@@ -1,5 +1,5 @@
 # Plants and Plant Medicine of the So Called American Continent
-
+Plants!
 
 ## [Bearberry](https://en.wikipedia.org/wiki/Bearberry)
 
@@ -70,7 +70,7 @@
 * [Willow Water](https://en.wikipedia.org/wiki/Willow_water) - Contains rooting hormones: indolebutyric acid and salicylic acid.
 
 
-## Betulacae
+## [Betulacae](https://en.wikipedia.org/wiki/Betulaceae) - Familiy
 
 ### [Alder](https://en.wikipedia.org/wiki/Alder)
 
@@ -150,16 +150,20 @@ Not known to be used for human consumption:
 * [Cucurbita pepo](https://en.wikipedia.org/wiki/Cucurbita_pepo) - Most of the squash you know about, including pumpkins, comes from this species.
 * A good resource on gourds is the Spanish Wikipedia page [Calabaza](https://es.wikipedia.org/wiki/Calabaza).
 
-# [Psoralea](https://en.wikipedia.org/wiki/Psoralea)
+## [Psoralea](https://en.wikipedia.org/wiki/Psoralea)
+
 
 * [Psoralea esculenta](https://en.wikipedia.org/wiki/Psoralea_esculenta) - Timpsula, prarie turnip. One of two edible Psoralea species. [Throughout the Midwest of Canada and USA](https://plants.usda.gov/core/profile?symbol=PEES).
 * [Pediomelum hypogaeum](https://en.wikipedia.org/wiki/Pediomelum_hypogaeum) - Little Indian breadroot, subterranean Indian breadroot. One of two edible Psoralea species. USA: Montana, Wyoming, Colorado, Nebraska, Kansas, New Mexico, Oklahoma, Arkansas, Texas, Louisiana.
 
-# [Solanum](https://en.wikipedia.org/wiki/Solanum)
+
+## [Solanum](https://en.wikipedia.org/wiki/Solanum)
+
+
 * [Solanum jamesii](https://www.cultivariable.com/instructions/potatoes/how-to-grow-wild-potatoes/solanum-jamesii/) - Edible variety of potato, should be eaten with clay gravy. Four corners area of USA: Utah, Colorado, Arizon, New Mexico. USA: Texas, Iowa. Central Mexico.
 * [Solanum stoloniferum](https://www.cultivariable.com/instructions/potatoes/how-to-grow-wild-potatoes/solanum-stoloniferum/) - Edible variety of potato, should be eaten with clay gravy. Less frost tollerant. USA: Arzona, New Mexica, Texas. Mexico: Baja California, Central states through Oaxaca. [Identifying photos](http://southwestdesertflora.com/WebsiteFolders/All_Species/Solanaceae/Solanum%20fendleri,%20Fendler%27s%20Horsenettle.html).
 
-# [Annonaceae](https://en.wikipedia.org/wiki/Annonaceae) - Family
+## [Annonaceae](https://en.wikipedia.org/wiki/Annonaceae) - Family
 
 * [Asimina triloba](https://en.wikipedia.org/wiki/Asimina_triloba) - Pawpaw, assimin/rassimin (Miami-Illinois language), Appalachian banana, chirimoyo de la Florida, banano de montaña. Found in eastern Canada and USA with a concetration in central eastern states of the USA. Relies on native polinators attracted to its flowers' rotting meat like scent. Largest native fruit in north america. Alsos read: [The Pawpaw, or the Appalachian Banana, is the Lifeblood Fruit of Ancestors Past](https://www.wideopeneats.com/appalachian-banana-pawpaw/)
 * [Annona squamosa](https://en.wikipedia.org/wiki/Annona_squamosa) - [sugar-apple, sweetsop, custard apple, ate (name from Mexico)](https://en.wikipedia.org/wiki/Sugar-apple), [anón, ates, riñón, anona, saramuyo](https://es.wikipedia.org/wiki/Annona_squamosa) - Native to the tropics and carribean.
@@ -167,6 +171,54 @@ Not known to be used for human consumption:
 * [Annona cherimola](https://en.wikipedia.org/wiki/Cherimoya) - Chirimuya (Quechua), Cherimoya, Custard apple. Found from the southern tip of America all the way up through Mexico and even in Florida, USA.
 * [Annona reticulata](https://en.wikipedia.org/wiki/Annona_reticulata) - Annon (Taino), nona roja, anona corazón, corazón de buey, mamán, cachimán, candón, mamón, anona de Cuba, quauhtzapotl de México, chirimoyo de Cuba, anona lisa de la Guayana, matzapotl de México, wild-sweetsop, bull's heart, bullock's-heart, or ox-heart. Found from Brazil through Veracruz, MX.
 * [Rollinia deliciosa](https://en.wikipedia.org/wiki/Rollinia_deliciosa) - biribá, wild sugar-apple, aratiku. Tastes like lemon meringue.
+
+## [Similax](https://en.wikipedia.org/wiki/Smilax)
+
+* [Smilax aristolochiifolia](https://en.wikipedia.org/wiki/Smilax_aristolochiifolia) - gray sarsaparilla, Mexican sarsaparilla, sarsaparilla.
+* [Smilax auriculata](https://en.wikipedia.org/wiki/Smilax_auriculata) -  earleaf greenbrier, wild-bamboo.
+* [Smilax biltmoreana](https://en.wikipedia.org/wiki/Smilax_biltmoreana) -  Biltmore's carrionflower.
+* [Smilax bona-nox](https://en.wikipedia.org/wiki/Smilax_bona-nox) - saw greenbrier, zarzaparrilla, catbrier, bullbrier, chinabrier, tramp's trouble. Medicinal, Food, leaves for cigarette wrapper.
+* [Smilax californica](https://en.wikipedia.org/wiki/Smilax_californica) - California greenbriar.
+* [Smilax ecirrhata](https://en.wikipedia.org/wiki/Smilax_ecirrhata) - upright carrionflower.
+* [Smilax glauca](https://en.wikipedia.org/wiki/Smilax_glauca) - cat greenbriar, catbriar.
+* [Smilax havanensis](https://en.wikipedia.org/wiki/Smilax_havanensis)
+* [Smilax herbacea](https://en.wikipedia.org/wiki/Smilax_herbacea) -  smooth carrionflower, smooth herbaceous greenbrier. Leaves are applied topically for skin and eye conditions.
+* [Smilax hugeri](https://en.wikipedia.org/wiki/Smilax_hugeri)
+* [Smilax illinoensis](https://en.wikipedia.org/wiki/Smilax_illinoensis)
+* [Smilax jamesii](https://en.wikipedia.org/wiki/Smilax_jamesii)
+* [Smilax lasioneura](https://en.wikipedia.org/wiki/Smilax_lasioneura)
+* [Smilax laurifolia](https://en.wikipedia.org/wiki/Smilax_laurifolia) -  laurel greenbrier, laurelleaf greenbrier, bamboo vine, blaspheme vine. Some food and medicinal value.
+* [Smilax maritima](https://en.wikipedia.org/wiki/Smilax_maritima)
+* [Smilax melastomifolia](https://en.wikipedia.org/wiki/Smilax_melastomifolia)
+* [Smilax moranensis](https://en.wikipedia.org/wiki/Smilax_moranensis) - zarzaparilla. expectorant, diuretic, anti-inflammatory, type II diabetes.
+* [Smilax ornata](https://en.wikipedia.org/wiki/Smilax_ornata) - sarsaparilla, Honduran sarsaparilla, and Jamaican sarsaparilla, zarzaparrilla. Medicinal. Flavor for root beer.
+* [Smilax pseudochina](https://en.wikipedia.org/wiki/Smilax_pseudochina) - bamboo vine, false chinaroot.
+* [Smilax pulverulenta](https://en.wikipedia.org/wiki/Smilax_pulverulenta)
+* [Smilax pumila](https://en.wikipedia.org/wiki/Smilax_pumila)
+* [Smilax rotundifolia](https://en.wikipedia.org/wiki/Smilax_rotundifolia) - oundleaf greenbrier, common greenbrier. Young shoots prepared like asparagus. Young leaves and tendrils can be used like spinach. Roots contain a gelling agent which can used as a thickener.
+* [Smilax tamnoides](https://en.wikipedia.org/wiki/Smilax_tamnoides)
+* [Smilax walteri](https://en.wikipedia.org/wiki/Smilax_walteri)
+
+## [Araliaceae (Ivy)](https://en.wikipedia.org/wiki/Araliaceae) - Family
+
+This family contains a wide variety of plants, including Eulethro and Ginseng, with many potent effects see [Eleutherococcus gracilistylus](https://en.wikipedia.org/wiki/Eleutherococcus_gracilistylus).
+
+### [Oplopanax](https://en.wikipedia.org/wiki/Oplopanax)
+
+* [Oplopanax horridus](https://en.wikipedia.org/wiki/Devil%27s_club) - Devil's club, devil's walking stick, Alaskan Ginseng. Not an adaptogen, but medicinal. Potential to be overharvested by colonizers.
+
+### [Panax](https://en.wikipedia.org/wiki/Panax)
+
+* [Panax quinquefolius](https://en.wikipedia.org/wiki/American_ginseng) - American ginseng. Medicinal. Becoming endagered from over harvesting.
+* [Panax trifolius](https://en.wikipedia.org/wiki/Panax_trifolius) - Dwarf ginseng. Medicinal.
+
+### [Aralia](https://en.wikipedia.org/wiki/Aralia) - Spikenard
+
+* [Aralia californica](https://en.wikipedia.org/wiki/Aralia_californica) - elk clover, California aralia, California spikenard. Medicinal.
+* [Aralia nudicaulis](https://en.wikipedia.org/wiki/Aralia_nudicaulis) - wild sarsaparilla, false sarsaparilla, shot bush, small spikenard, wild liquorice, rabbit root.
+* [Aralia racemosa](https://en.wikipedia.org/wiki/Aralia_racemosa) - American spikenard, small spikenard, Indian root, spice berry, spignet, life-of-man, petty morel. Medicinal.
+* [Aralia spinosa](https://en.wikipedia.org/wiki/Aralia_spinosa) - devil's walkingstick, Angelica-tree. Confusingly: Hercules' club, prickly ash, prickly elder. Very young leaves can be eaten.
+
 
 # Resources
 
