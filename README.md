@@ -219,8 +219,59 @@ This family contains a wide variety of plants, including Eulethro and Ginseng, w
 * [Aralia racemosa](https://en.wikipedia.org/wiki/Aralia_racemosa) - American spikenard, small spikenard, Indian root, spice berry, spignet, life-of-man, petty morel. Medicinal.
 * [Aralia spinosa](https://en.wikipedia.org/wiki/Aralia_spinosa) - devil's walkingstick, Angelica-tree. Confusingly: Hercules' club, prickly ash, prickly elder. Very young leaves can be eaten.
 
+## [Amaranthaceae](https://en.wikipedia.org/wiki/Amaranthaceae)
 
-# Resources
+### [Chenopodioideae](https://en.wikipedia.org/wiki/Chenopodioideae)
+
+#### [Chenopodium](https://en.wikipedia.org/wiki/Chenopodium)
+
+  * [Chenopodium album](https://en.wikipedia.org/wiki/Chenopodium_album)
+  * [Chenopodium atrovirens](https://en.wikipedia.org/wiki/Chenopodium_atrovirens)
+  * [Chenopodium berlandieri](https://en.wikipedia.org/wiki/Chenopodium_berlandieri)
+  * [Chenopodium cycloides](https://en.wikipedia.org/wiki/Chenopodium_cycloides)
+  * [Chenopodium desiccatum](https://en.wikipedia.org/wiki/Chenopodium_desiccatum)
+  * [Chenopodium fremontii](https://en.wikipedia.org/wiki/Chenopodium_fremontii)
+  * [Chenopodium leptophyllum](https://en.wikipedia.org/wiki/Chenopodium_leptophyllum)
+  * [Chenopodium littoreum](https://en.wikipedia.org/wiki/Chenopodium_littoreum)
+  * [Chenopodium nuttalliae](https://en.wikipedia.org/wiki/Chenopodium_nuttalliae) - huauzontle
+  * [Chenopodium oahuense](https://en.wikipedia.org/wiki/Chenopodium_oahuense)
+  * [Chenopodium pallidicaule](https://en.wikipedia.org/wiki/Chenopodium_pallidicaule) - qañiwa
+  * [Chenopodium pratericola](https://en.wikipedia.org/wiki/Chenopodium_pratericola)
+  * [Chenopodium quinoa](https://en.wikipedia.org/wiki/Quinoa) - quinoa
+
+### [Polycnemoideae](https://en.wikipedia.org/wiki/Polycnemoideae)
+
+#### [Nitrophila](https://en.wikipedia.org/wiki/Nitrophila)
+
+  * [Nitrophila occidentalis](https://en.wikipedia.org/wiki/Nitrophila_occidentalis) - [Pictures](https://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Nitrophila+occidentalis)
+
+### [Suaedoideae](https://en.wikipedia.org/wiki/Suaedoideae)
+
+#### [Suaeda](https://en.wikipedia.org/wiki/Suaeda)
+
+  * [Suaeda calceoliformis](https://en.wikipedia.org/wiki/Suaeda_calceoliformis)
+  * [Suaeda esteroa](https://en.wikipedia.org/wiki/Suaeda_esteroa)
+  * [Suaeda maritima](https://en.wikipedia.org/wiki/Suaeda_maritima)
+  * [Suaeda nigra](https://en.wikipedia.org/wiki/Suaeda_nigra)
+  * Suaeda mexicana
+  * [Suaeda pulvinata](https://en.wikipedia.org/wiki/Suaeda_pulvinata)
+  * [Suaeda taxifolia](https://en.wikipedia.org/wiki/Suaeda_taxifolia)
+  * [Suaeda vera](https://en.wikipedia.org/wiki/Suaeda_vera)
+
+### [Salsoloideae](https://en.wikipedia.org/wiki/Salsoloideae)
+
+#### Salsoleae
+
+  * [Halogeton sativus](https://en.wikipedia.org/wiki/Halogeton) - used as a saltwort for soda ash
+  * [Halogeton glomeratus](https://en.wikipedia.org/wiki/Halogeton_glomeratus) - up to 30% oxylate, might be useful in certain chemical preparations
+
+#### [Kali](https://en.wikipedia.org/wiki/Kali_(plant))
+
+  * [Kali turgidum](https://en.wikipedia.org/wiki/Kali_turgidum) - Invasive. When burned can make soda ash with up 30% sodium carbonate (and for a brief overview of how this changed to other things see the [Solvay process](https://en.wikipedia.org/wiki/Solvay_process)).
+  * [Kali tragus](https://en.wikipedia.org/wiki/Kali_tragus) - Invasive. Prickly Russian thistle, windwitch, or common saltwort. Very pointy tumble weed in the midwest. Can also be used for phytoremiadiation and phytomining. When burned can make soda ash with up 30% sodium carbonate.
+  * [Kali paulsenii](https://en.wikipedia.org/wiki/Kali_paulsenii) - Invasive, very simlar to the above plant.
+
+## Resources
 
 * [Native American Ethnobotany - A Database of Foods, Drugs, Dyes and Fibers of Native American Peoples, Derived from Plants.](http://naeb.brit.org/)
 * [Native American ethnobotany](https://en.wikipedia.org/wiki/Native_American_ethnobotany)
