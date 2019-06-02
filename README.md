@@ -271,6 +271,40 @@ This family contains a wide variety of plants, including Eulethro and Ginseng, w
   * [Kali tragus](https://en.wikipedia.org/wiki/Kali_tragus) - Invasive. Prickly Russian thistle, windwitch, or common saltwort. Very pointy tumble weed in the midwest. Can also be used for phytoremiadiation and phytomining. When burned can make soda ash with up 30% sodium carbonate.
   * [Kali paulsenii](https://en.wikipedia.org/wiki/Kali_paulsenii) - Invasive, very simlar to the above plant.
 
+### [Salicornioideae](https://en.wikipedia.org/wiki/Salicornioideae)
+
+#### Allenrolfea
+
+  * [Allenrolfea occidentalis](https://en.wikipedia.org/wiki/Allenrolfea_occidentalis) - iodinebush
+  * Allenrolfea patagonica
+  * Allenrolfea vaginata
+
+#### Arthrocnemum
+
+  * [Arthrocnemum subterminale](https://en.wikipedia.org/wiki/Arthrocnemum_subterminale) - Parish's glasswort. [Photos](https://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Salicornia+subterminalis).
+
+#### [Heterostachys](https://en.wikipedia.org/wiki/Heterostachys)
+
+  * Heterostachys olivascens
+  * Heterostachys ritteriana
+
+#### [Salicornia](https://en.wikipedia.org/wiki/Salicornia)
+
+  * [Salicornia europaea](https://en.wikipedia.org/wiki/Salicornia_europaea)
+  * [Salicornia bigelovii](https://en.wikipedia.org/wiki/Salicornia_bigelovii) - Moves selenium from soil to air. Biodeisel? Seeds are edible.
+  * [Salicornia virginica](https://en.wikipedia.org/wiki/Salicornia_virginica) - Biofuel?
+  * Salicornia rubra
+
+#### [Sarcocornia](https://en.wikipedia.org/wiki/Sarcocornia)
+
+  * Sarcocornia ambigua
+  * Sarcocornia andina
+  * arcocornia magellanica
+  * Sarcocornia neei
+  * Sarcocornia pacifica
+  * Sarcocornia pulvinata
+  * [Sarcocornia utahensis](https://en.wikipedia.org/wiki/Sarcocornia_utahensis) - [Pictures](https://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Sarcocornia+utahensis). [Range](http://www.efloras.org/object_page.aspx?object_id=13118&flora_id=1).
+
 ## Resources
 
 * [Native American Ethnobotany - A Database of Foods, Drugs, Dyes and Fibers of Native American Peoples, Derived from Plants.](http://naeb.brit.org/)
