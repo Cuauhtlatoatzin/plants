@@ -1,8 +1,8 @@
 # Plants and Plant Medicine of the So Called American Continent
+
 Plants!
 
 ## [Bearberry](https://en.wikipedia.org/wiki/Bearberry)
-
 
 ## [Willow](https://en.wikipedia.org/wiki/Willow)
 
@@ -58,7 +58,7 @@ Plants!
 * [Salix sitchensis](https://en.wikipedia.org/wiki/Salix_sitchensis)
 * [Salix taxifolia](https://en.wikipedia.org/wiki/Salix_taxifolia) - Yewleaf, Yew-leaf Willow. Southern Mexico to Gautemala. Occurs intermittently to the north where S. bonplandiana is found.
 
-### Non-native, but still useful:
+### Non-native, but still useful
 
 * [Salix alba](https://en.wikipedia.org/wiki/Salix_alba)
 * [Salix babylonica](https://en.wikipedia.org/wiki/Salix_babylonica)
@@ -68,7 +68,6 @@ Plants!
 ### Other uses
 
 * [Willow Water](https://en.wikipedia.org/wiki/Willow_water) - Contains rooting hormones: indolebutyric acid and salicylic acid.
-
 
 ## [Betulacae](https://en.wikipedia.org/wiki/Betulaceae) - Familiy
 
@@ -87,21 +86,17 @@ Alders are part of the same family of trees as [Birch, Hazel, and Hornbeams (Bet
 * [Alnus serrulata](https://en.wikipedia.org/wiki/Alnus_serrulata)
 * [Alnus viridis](https://en.wikipedia.org/wiki/Alnus_viridis)
 
-
 ### [Birch](https://en.wikipedia.org/wiki/Birch)
-
 
 ### Hazel
 
 * [Corylus americana](https://en.wikipedia.org/wiki/Corylus_americana) and [this](http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500448)
 * [Corylus cornuta](https://en.wikipedia.org/wiki/Corylus_cornuta) and [this](https://www.fs.fed.us/database/feis/plants/shrub/corcor/all.html)
 
-
 ### Hornbeams
 
 * [Carpinus caroliniana](https://en.wikipedia.org/wiki/Carpinus_caroliniana)
-* [Carpinus tropicalis ](http://dx.doi.org/10.2305/IUCN.UK.2014-3.RLTS.T194532A2345597.en) and [also](https://www.inaturalist.org/taxa/371732-Carpinus-tropicalis)
-
+* [Carpinus tropicalis](http://dx.doi.org/10.2305/IUCN.UK.2014-3.RLTS.T194532A2345597.en) and [also](https://www.inaturalist.org/taxa/371732-Carpinus-tropicalis)
 
 ### Hop-Hornbeams
 
@@ -111,12 +106,10 @@ These are very hard woods.
 * [Ostrya knowltonii](https://www.fs.fed.us/database/feis/plants/tree/ostkno/all.html)
 * [Ostrya virginiana](https://en.wikipedia.org/wiki/Ostrya_virginiana)
 
-
 ## Prunus
 
 * [Prunus serotina](https://en.wikipedia.org/wiki/Prunus_serotina) - Black Cherry, capolcuahuitl(Nahuatl).
 * [Prunus virginiana](https://en.wikipedia.org/wiki/Prunus_virginiana) - Chokecherry, Buffalo Berries, do'icabui(N. Paiute), toshəbui(N. Paiute), cuiwap(Pit River), dewich'käsh(Klamath), dsamchit(Washoe), canpasapa(Lakota), nopa-zhinga(Ponca & Omaha), nahaapi nakaaruts(Pawnee), puckkeep(Blackfoot), monotse(Cheyenne), malupwa(Crow), schlascha(Flathead), ohpanaigaw(Kiowa), champa(Assiniboin), goonpa(Osage) (see: [The Chokecherry](https://sites.google.com/a/macalester.edu/ordwipedia/traditional-ecological-knowledge-tek-from-ling-225/the-chokecherry))
-
 
 ## [Ilex](https://en.wikipedia.org/wiki/Holly)
 
@@ -132,8 +125,8 @@ Known in drink preparations:
 * [Ilex cassine](https://en.wikipedia.org/wiki/Ilex_cassine) - Known as Dahoon. Found in USA: AL, FL, GA, LA, MS, NC, SC, VA; MX: Veracruz; Bahamas; Cuba; Puerto Rico. The Seminole use a preparation of this as soap. The Tsalagi (Cherokee) have used it as Ilex Mucronata as above.
 
 Not known to be used for human consumption:
-* [Ilex amelanchier](https://en.wikipedia.org/wiki/Ilex_amelanchier)
 
+* [Ilex amelanchier](https://en.wikipedia.org/wiki/Ilex_amelanchier)
 
 ## [Theobroma](https://en.wikipedia.org/wiki/Theobroma)
 
@@ -152,13 +145,10 @@ Not known to be used for human consumption:
 
 ## [Psoralea](https://en.wikipedia.org/wiki/Psoralea)
 
-
 * [Psoralea esculenta](https://en.wikipedia.org/wiki/Psoralea_esculenta) - Timpsula, prarie turnip. One of two edible Psoralea species. [Throughout the Midwest of Canada and USA](https://plants.usda.gov/core/profile?symbol=PEES).
 * [Pediomelum hypogaeum](https://en.wikipedia.org/wiki/Pediomelum_hypogaeum) - Little Indian breadroot, subterranean Indian breadroot. One of two edible Psoralea species. USA: Montana, Wyoming, Colorado, Nebraska, Kansas, New Mexico, Oklahoma, Arkansas, Texas, Louisiana.
 
-
 ## [Solanum](https://en.wikipedia.org/wiki/Solanum)
-
 
 * [Solanum jamesii](https://www.cultivariable.com/instructions/potatoes/how-to-grow-wild-potatoes/solanum-jamesii/) - Edible variety of potato, should be eaten with clay gravy. Four corners area of USA: Utah, Colorado, Arizon, New Mexico. USA: Texas, Iowa. Central Mexico.
 * [Solanum stoloniferum](https://www.cultivariable.com/instructions/potatoes/how-to-grow-wild-potatoes/solanum-stoloniferum/) - Edible variety of potato, should be eaten with clay gravy. Less frost tollerant. USA: Arzona, New Mexica, Texas. Mexico: Baja California, Central states through Oaxaca. [Identifying photos](http://southwestdesertflora.com/WebsiteFolders/All_Species/Solanaceae/Solanum%20fendleri,%20Fendler%27s%20Horsenettle.html).
@@ -219,91 +209,146 @@ This family contains a wide variety of plants, including Eulethro and Ginseng, w
 * [Aralia racemosa](https://en.wikipedia.org/wiki/Aralia_racemosa) - American spikenard, small spikenard, Indian root, spice berry, spignet, life-of-man, petty morel. Medicinal.
 * [Aralia spinosa](https://en.wikipedia.org/wiki/Aralia_spinosa) - devil's walkingstick, Angelica-tree. Confusingly: Hercules' club, prickly ash, prickly elder. Very young leaves can be eaten.
 
+## [Asparagaceae](https://en.wikipedia.org/wiki/Asparagaceae)
+
+### [Agavoideae](https://en.wikipedia.org/wiki/Agavoideae)
+
+#### [Agave](https://en.wikipedia.org/wiki/Agave)
+
+* [Agave americana](https://en.wikipedia.org/wiki/Agave_americana)
+* [Agave angustifolia](https://en.wikipedia.org/wiki/Agave_angustifolia)
+* [Agave tequilana](https://en.wikipedia.org/wiki/Agave_tequilana)
+* [Agave murpheyi](https://en.wikipedia.org/wiki/Agave_murpheyi)
+* [Agave vilmoriniana](https://en.wikipedia.org/wiki/Agave_vilmoriniana)
+* [Sisal](https://en.wikipedia.org/wiki/Sisal)
+
+#### [Camassia](https://en.wikipedia.org/wiki/Camassia)
+
+Camas, quamash, Indian hyacinth, camash, wild hyacinth, xapi(ktunaxa). Food.
+
+* [Camassia angusta](https://en.wikipedia.org/wiki/Camassia) &mdash; prairie camas
+* [Camassia cusickii](https://en.wikipedia.org/wiki/Camassia_cusickii) &mdash; Steroidal saponins. Not used for food and also easily confused with deathcamas.
+* [Camassia howellii](https://en.wikipedia.org/wiki/Camassia_howellii) &mdash; Food.
+* [Camassia leichtlinii](https://en.wikipedia.org/wiki/Camassia_leichtlinii) &mdash; Food.
+* [Camassia quamash](https://en.wikipedia.org/wiki/Camassia_quamash) &mdash; Common camas. Food. White flowers could be confused with deathcamas.
+* [Camassia scilloides](https://en.wikipedia.org/wiki/Camassia_scilloides) &mdash; Food.
+
+#### [Chlorogalum](https://en.wikipedia.org/wiki/Chlorogalum)
+
+* [Chlorogalum angustifolium](https://en.wikipedia.org/wiki/Chlorogalum_angustifolium) &mdash; narrowleaf soap plant. Crushed bulbs can be used as soap.
+* [Chlorogalum grandiflorum](https://en.wikipedia.org/wiki/Chlorogalum_grandiflorum) &mdash; Red Hills soap plant. This should probably be protected since it only only grows in one location.
+* [Chlorogalum parviflorum](https://en.wikipedia.org/wiki/Chlorogalum_parviflorum) &mdash; smallflower soap plant
+* [Chlorogalum pomeridianum](https://en.wikipedia.org/wiki/Chlorogalum_pomeridianum) &mdash; wavy-leafed soap plant, California soaproot, amole, shlā. Soap. If cooked properly can be eaten, but most animals can't handle the saponins. Medicinal uses, too.
+* [Chlorogalum purpureum] &mdash; Federally threatened.
+
+#### [Furcraea](https://en.wikipedia.org/wiki/Furcraea)
+
+* [Fique](https://en.wikipedia.org/wiki/Fique) &mdash; Multipurpose.
+* [Furcraea foetida](https://en.wikipedia.org/wiki/Furcraea_foetida) &mdash; Fibers.
+* [Furcraea niquivilensis](https://en.wikipedia.org/wiki/Furcraea_niquivilensis) &mdash; Fibers.
+
+#### [Hesperocallis](https://en.wikipedia.org/wiki/Hesperocallis)
+
+Desert lilly, Ajo lilly. Bulbs can be eaten.
+
+#### [Yucca](https://en.wikipedia.org/wiki/Yucca)
+
+### [Brodiaeoideae](https://en.wikipedia.org/wiki/Brodiaeoideae)
+
+#### [Triteleia](https://en.wikipedia.org/wiki/Triteleia)
+
+* [Triteleia grandiflora](https://en.wikipedia.org/wiki/Triteleia_grandiflora) &mdash; Appears to be edible.
+* [Triteleia laxa](https://en.wikipedia.org/wiki/Triteleia_laxa) &mdash; Ithuriel's spear, common triteleia, grassnut. Edible.
+
+#### [Dichelostemma](https://en.wikipedia.org/wiki/Dichelostemma)
+
+* [Dichelostemma capitatum](https://en.wikipedia.org/wiki/Dichelostemma_capitatum)
+
 ## [Amaranthaceae](https://en.wikipedia.org/wiki/Amaranthaceae)
 
 ### [Chenopodioideae](https://en.wikipedia.org/wiki/Chenopodioideae)
 
 #### [Chenopodium](https://en.wikipedia.org/wiki/Chenopodium)
 
-  * [Chenopodium album](https://en.wikipedia.org/wiki/Chenopodium_album)
-  * [Chenopodium atrovirens](https://en.wikipedia.org/wiki/Chenopodium_atrovirens)
-  * [Chenopodium berlandieri](https://en.wikipedia.org/wiki/Chenopodium_berlandieri)
-  * [Chenopodium cycloides](https://en.wikipedia.org/wiki/Chenopodium_cycloides)
-  * [Chenopodium desiccatum](https://en.wikipedia.org/wiki/Chenopodium_desiccatum)
-  * [Chenopodium fremontii](https://en.wikipedia.org/wiki/Chenopodium_fremontii)
-  * [Chenopodium leptophyllum](https://en.wikipedia.org/wiki/Chenopodium_leptophyllum)
-  * [Chenopodium littoreum](https://en.wikipedia.org/wiki/Chenopodium_littoreum)
-  * [Chenopodium nuttalliae](https://en.wikipedia.org/wiki/Chenopodium_nuttalliae) - huauzontle
-  * [Chenopodium oahuense](https://en.wikipedia.org/wiki/Chenopodium_oahuense)
-  * [Chenopodium pallidicaule](https://en.wikipedia.org/wiki/Chenopodium_pallidicaule) - qañiwa
-  * [Chenopodium pratericola](https://en.wikipedia.org/wiki/Chenopodium_pratericola)
-  * [Chenopodium quinoa](https://en.wikipedia.org/wiki/Quinoa) - quinoa
+* [Chenopodium album](https://en.wikipedia.org/wiki/Chenopodium_album)
+* [Chenopodium atrovirens](https://en.wikipedia.org/wiki/Chenopodium_atrovirens)
+* [Chenopodium berlandieri](https://en.wikipedia.org/wiki/Chenopodium_berlandieri)
+* [Chenopodium cycloides](https://en.wikipedia.org/wiki/Chenopodium_cycloides)
+* [Chenopodium desiccatum](https://en.wikipedia.org/wiki/Chenopodium_desiccatum)
+* [Chenopodium fremontii](https://en.wikipedia.org/wiki/Chenopodium_fremontii)
+* [Chenopodium leptophyllum](https://en.wikipedia.org/wiki/Chenopodium_leptophyllum)
+* [Chenopodium littoreum](https://en.wikipedia.org/wiki/Chenopodium_littoreum)
+* [Chenopodium nuttalliae](https://en.wikipedia.org/wiki/Chenopodium_nuttalliae) - huauzontle
+* [Chenopodium oahuense](https://en.wikipedia.org/wiki/Chenopodium_oahuense)
+* [Chenopodium pallidicaule](https://en.wikipedia.org/wiki/Chenopodium_pallidicaule) - qañiwa
+* [Chenopodium pratericola](https://en.wikipedia.org/wiki/Chenopodium_pratericola)
+* [Chenopodium quinoa](https://en.wikipedia.org/wiki/Quinoa) - quinoa
 
 ### [Polycnemoideae](https://en.wikipedia.org/wiki/Polycnemoideae)
 
 #### [Nitrophila](https://en.wikipedia.org/wiki/Nitrophila)
 
-  * [Nitrophila occidentalis](https://en.wikipedia.org/wiki/Nitrophila_occidentalis) - [Pictures](https://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Nitrophila+occidentalis)
+* [Nitrophila occidentalis](https://en.wikipedia.org/wiki/Nitrophila_occidentalis) - [Pictures](https://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Nitrophila+occidentalis)
 
 ### [Suaedoideae](https://en.wikipedia.org/wiki/Suaedoideae)
 
 #### [Suaeda](https://en.wikipedia.org/wiki/Suaeda)
 
-  * [Suaeda calceoliformis](https://en.wikipedia.org/wiki/Suaeda_calceoliformis)
-  * [Suaeda esteroa](https://en.wikipedia.org/wiki/Suaeda_esteroa)
-  * [Suaeda maritima](https://en.wikipedia.org/wiki/Suaeda_maritima)
-  * [Suaeda nigra](https://en.wikipedia.org/wiki/Suaeda_nigra)
-  * Suaeda mexicana
-  * [Suaeda pulvinata](https://en.wikipedia.org/wiki/Suaeda_pulvinata)
-  * [Suaeda taxifolia](https://en.wikipedia.org/wiki/Suaeda_taxifolia)
-  * [Suaeda vera](https://en.wikipedia.org/wiki/Suaeda_vera)
+* [Suaeda calceoliformis](https://en.wikipedia.org/wiki/Suaeda_calceoliformis)
+* [Suaeda esteroa](https://en.wikipedia.org/wiki/Suaeda_esteroa)
+* [Suaeda maritima](https://en.wikipedia.org/wiki/Suaeda_maritima)
+* [Suaeda nigra](https://en.wikipedia.org/wiki/Suaeda_nigra)
+* Suaeda mexicana
+* [Suaeda pulvinata](https://en.wikipedia.org/wiki/Suaeda_pulvinata)
+* [Suaeda taxifolia](https://en.wikipedia.org/wiki/Suaeda_taxifolia)
+* [Suaeda vera](https://en.wikipedia.org/wiki/Suaeda_vera)
 
 ### [Salsoloideae](https://en.wikipedia.org/wiki/Salsoloideae)
 
 #### Salsoleae
 
-  * [Halogeton sativus](https://en.wikipedia.org/wiki/Halogeton) - used as a saltwort for soda ash
-  * [Halogeton glomeratus](https://en.wikipedia.org/wiki/Halogeton_glomeratus) - up to 30% oxylate, might be useful in certain chemical preparations
+* [Halogeton sativus](https://en.wikipedia.org/wiki/Halogeton) - used as a saltwort for soda ash
+* [Halogeton glomeratus](https://en.wikipedia.org/wiki/Halogeton_glomeratus) - up to 30% oxylate, might be useful in certain chemical preparations
 
 #### [Kali](https://en.wikipedia.org/wiki/Kali_(plant))
 
-  * [Kali turgidum](https://en.wikipedia.org/wiki/Kali_turgidum) - Invasive. When burned can make soda ash with up 30% sodium carbonate (and for a brief overview of how this changed to other things see the [Solvay process](https://en.wikipedia.org/wiki/Solvay_process)).
-  * [Kali tragus](https://en.wikipedia.org/wiki/Kali_tragus) - Invasive. Prickly Russian thistle, windwitch, or common saltwort. Very pointy tumble weed in the midwest. Can also be used for phytoremiadiation and phytomining. When burned can make soda ash with up 30% sodium carbonate.
-  * [Kali paulsenii](https://en.wikipedia.org/wiki/Kali_paulsenii) - Invasive, very simlar to the above plant.
+* [Kali turgidum](https://en.wikipedia.org/wiki/Kali_turgidum) - Invasive. When burned can make soda ash with up 30% sodium carbonate (and for a brief overview of how this changed to other things see the [Solvay process](https://en.wikipedia.org/wiki/Solvay_process)).
+* [Kali tragus](https://en.wikipedia.org/wiki/Kali_tragus) - Invasive. Prickly Russian thistle, windwitch, or common saltwort. Very pointy tumble weed in the midwest. Can also be used for phytoremiadiation and phytomining. When burned can make soda ash with up 30% sodium carbonate.
+* [Kali paulsenii](https://en.wikipedia.org/wiki/Kali_paulsenii) - Invasive, very simlar to the above plant.
 
 ### [Salicornioideae](https://en.wikipedia.org/wiki/Salicornioideae)
 
 #### Allenrolfea
 
-  * [Allenrolfea occidentalis](https://en.wikipedia.org/wiki/Allenrolfea_occidentalis) - iodinebush
-  * Allenrolfea patagonica
-  * Allenrolfea vaginata
+* [Allenrolfea occidentalis](https://en.wikipedia.org/wiki/Allenrolfea_occidentalis) - iodinebush
+* Allenrolfea patagonica
+* Allenrolfea vaginata
 
 #### Arthrocnemum
 
-  * [Arthrocnemum subterminale](https://en.wikipedia.org/wiki/Arthrocnemum_subterminale) - Parish's glasswort. [Photos](https://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Salicornia+subterminalis).
+* [Arthrocnemum subterminale](https://en.wikipedia.org/wiki/Arthrocnemum_subterminale) - Parish's glasswort. [Photos](https://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Salicornia+subterminalis).
 
 #### [Heterostachys](https://en.wikipedia.org/wiki/Heterostachys)
 
-  * Heterostachys olivascens
-  * Heterostachys ritteriana
+* Heterostachys olivascens
+* Heterostachys ritteriana
 
 #### [Salicornia](https://en.wikipedia.org/wiki/Salicornia)
 
-  * [Salicornia europaea](https://en.wikipedia.org/wiki/Salicornia_europaea)
-  * [Salicornia bigelovii](https://en.wikipedia.org/wiki/Salicornia_bigelovii) - Moves selenium from soil to air. Biodeisel? Seeds are edible.
-  * [Salicornia virginica](https://en.wikipedia.org/wiki/Salicornia_virginica) - Biofuel?
-  * Salicornia rubra
+* [Salicornia europaea](https://en.wikipedia.org/wiki/Salicornia_europaea)
+* [Salicornia bigelovii](https://en.wikipedia.org/wiki/Salicornia_bigelovii) - Moves selenium from soil to air. Biodeisel? Seeds are edible.
+* [Salicornia virginica](https://en.wikipedia.org/wiki/Salicornia_virginica) - Biofuel?
+* Salicornia rubra
 
 #### [Sarcocornia](https://en.wikipedia.org/wiki/Sarcocornia)
 
-  * Sarcocornia ambigua
-  * Sarcocornia andina
-  * arcocornia magellanica
-  * Sarcocornia neei
-  * Sarcocornia pacifica
-  * Sarcocornia pulvinata
-  * [Sarcocornia utahensis](https://en.wikipedia.org/wiki/Sarcocornia_utahensis) - [Pictures](https://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Sarcocornia+utahensis). [Range](http://www.efloras.org/object_page.aspx?object_id=13118&flora_id=1).
+* Sarcocornia ambigua
+* Sarcocornia andina
+* arcocornia magellanica
+* Sarcocornia neei
+* Sarcocornia pacifica
+* Sarcocornia pulvinata
+* [Sarcocornia utahensis](https://en.wikipedia.org/wiki/Sarcocornia_utahensis) - [Pictures](https://calphotos.berkeley.edu/cgi/img_query?query_src=photos_index&where-taxon=Sarcocornia+utahensis). [Range](http://www.efloras.org/object_page.aspx?object_id=13118&flora_id=1).
 
 ## Resources
 
